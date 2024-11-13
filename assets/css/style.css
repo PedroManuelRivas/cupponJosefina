@@ -1,0 +1,82 @@
+@font-face {
+  font-family: roboto-light;
+  src: url(../fonts/roboto-light.ttf);
+}
+
+@font-face {
+  font-family: roboto-medium;
+  src: url(../fonts/roboto-medium.ttf);
+}
+
+/*************👇🏻 NAVBAR *************/
+.navbar-style {
+  background-color: #28a745;
+}
+.navbar-font {
+  font-family: roboto-light;
+}
+
+/*************👇🏻 CARDS *************/
+.description-font {
+  font-family: roboto-light;
+  font-size: 20px;
+  margin-bottom: 16px;
+  color: #212529;
+}
+
+.location-font {
+  font-family: roboto-light;
+  font-size: 16px;
+  color: #707070;
+}
+
+.line {
+  border-top: 2px solid #707070a0;
+  margin-bottom: auto;
+}
+
+.price_01-font {
+  font-family: roboto-light;
+  list-style-type: none;
+  color: #707070;
+}
+
+.price_02-font {
+  font-family: roboto-medium;
+  list-style-type: none;
+  font-size: 18px;
+  color: #28a745;
+}
+
+.card:hover {
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+}
+
+main div a {
+  text-decoration: none;
+}
+
+/*************👇🏻 FORMULARIO *************/
+.form-style {
+  background-color: #28a745;
+  font-family: roboto-medium;
+  color: #ffffff;
+  text-align: center;
+}
+
+.input-font {
+  font-family: roboto-light;
+  color: #707070;
+}
+
+/*************👇🏻 FOOTER *************/
+.footer-font {
+  font-family: roboto-light;
+  color: #707070;
+  text-align: center;
+}
+
+.footer-font p {
+  margin-top: 1rem;
+}

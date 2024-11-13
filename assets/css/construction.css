@@ -1,0 +1,43 @@
+@font-face {
+  font-family: roboto-light;
+  src: url(../fonts/roboto-light.ttf);
+}
+
+@font-face {
+  font-family: roboto-medium;
+  src: url(../fonts/roboto-medium.ttf);
+}
+
+.construction-font {
+  font-family: roboto-medium;
+  font-size: 35px;
+  color: #28a745;
+  text-align: center;
+}
+
+.construction-font p {
+  margin: 0;
+}
+
+.apology-font {
+  font-family: roboto-light;
+  font-size: 30px;
+  color: #707070;
+  text-align: center;
+}
+
+.apology-font p {
+  margin-top: 2em;
+  margin-bottom: 0;
+}
+
+.volver-font {
+  font-family: roboto-light;
+  font-size: 24px;
+  color: #28a745;
+  text-decoration: none;
+}
+
+.volver-margin {
+  margin-top: 4em;
+}
